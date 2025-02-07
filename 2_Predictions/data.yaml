@@ -1,0 +1,24 @@
+train: data_img/train
+val: data_img/test
+nc: 20
+names: ['mobile(E-waste)',              
+        'E-waste',
+        'plastic(Non E waste)',             
+        'keyboard(E-waste)',
+        'laptop(E-waste)',               
+        'headphones(E-waste)',              
+        'television(E-waste)',
+        'mouse(E-waste)',
+        'battery(E-waste)',
+        'printer(E-waste)',
+        'charger(E-waste)',
+        'microwave(E-waste)',
+        'vegetable_peel(not a E-waste)',
+        'paper(Non E-waste)',
+        'fruit(not a E-waste)',
+        'egg(not a E-waste)',
+        'vegetablel(not a E-waste)',
+        'food(not a E-waste)',
+        'wires(E-waste)',
+        'paper(not a E-waste)'
+]
